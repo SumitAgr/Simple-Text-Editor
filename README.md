@@ -1,5 +1,5 @@
 # Simple Text Editor
-A Simple Text Editor made using Tkinter in Python
+A Simple Text Editor made using Tkinter in Python. I made this simple text editor because I needed something light-weight and fast to quickly write down my ideas and notes.
 
 ## Screenshots:
 
